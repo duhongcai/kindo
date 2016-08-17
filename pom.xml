@@ -28,6 +28,6 @@
 	</dependencyManagement>
 	<modules>
 		<module>kindo-io</module>
-		<module>kindo-rpc</module>
+		
 	</modules>
 </project>
